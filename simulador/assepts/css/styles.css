@@ -1,0 +1,14 @@
+body {
+    background: rgb(4, 4, 45);
+    color: white;
+    font: 11pt Tahoma;
+}
+
+tr:nth-child(even) {
+    background-color: gray;
+}
+
+table, th, td {
+    border: 1px solid white;
+    padding: 15px;
+}
